@@ -2,6 +2,10 @@
 
 This repo goes along with my Intro to ML workshop at TechRebalanced 2018.
 
+The slides folder contains the "presentation" portion of the workshop.
+
+The movie sentiment folder contains a jupyter notebook on how to build a model in Python.
+
 ## Installing Conda + Jupyter
 
 Conda is a package/library manager for Python. Jupyter is an interactive python environment.
